@@ -1,3 +1,3 @@
 # MAYADER!
 
-**Link**:  [Ders] (https://github.com/okudan/ders)
+**Link**:  [Ders](https://github.com/okudan/ders)
